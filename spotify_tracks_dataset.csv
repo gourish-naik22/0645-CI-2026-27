@@ -1,0 +1,501 @@
+Track_ID,Track_Name,Artist,Genre,Release_Year,Duration_ms,Tempo_BPM,Danceability,Energy,Loudness_dB,Streams_Millions,Popularity_Score,Album_Internal_Code,Record_Label_Notes
+SPT-1001,Infinite Memories 1,Arijit Singh,Electronic,2022,283261,140.1,0.61,0.53,-5.9,389.23,79.4,ALB-INT-20024,Remastered batch
+SPT-1002,Velvet Highway 2,Atif Aslam,Indie Pop,2023,249257,163.3,0.55,0.71,-8.26,369.99,64.3,ALB-INT-73288,Standard licensing
+SPT-1003,Crystal Skyline 3,Drake,Electronic,2017,212205,130.5,0.85,0.88,-8.19,,78.7,ALB-INT-67836,Standard licensing
+SPT-1004,Velvet Lights 4,Drake,Rock,2020,132910,167.2,0.44,0.67,-11.0,,74.3,ALB-INT-17435,Standard licensing
+SPT-1005,Infinite Stars 5,AR Rahman,Bollywood,2016,172857,100.9,0.61,0.56,-11.66,320.77,61.5,ALB-INT-77084,Cleared for global
+SPT-1006,Electric Waves 6,Arijit Singh,Pop,2022,160964,164.0,0.89,0.78,-10.89,371.7,91.4,ALB-INT-80601,Catalog sync v2
+SPT-1007,Crystal Moments 7,Kendrick Lamar,Pop,2023,282299,109.6,0.86,0.88,-7.99,328.26,82.0,ALB-INT-98416,Catalog sync v2
+SPT-1008,Silent Lights 8,Post Malone,Pop,2021,263050,111.8,0.59,0.44,-13.69,397.81,72.0,ALB-INT-13407,Catalog sync v2
+SPT-1009,Lost Skyline 9,The Weeknd,R&B,2020,143153,115.4,0.81,0.85,-4.2,342.71,81.6,ALB-INT-42940,Standard licensing
+SPT-1010,Silent Heartbeat 10,Post Malone,R&B,2021,185765,113.2,0.84,0.88,-12.31,316.71,75.2,ALB-INT-15666,Catalog sync v2
+SPT-1011,Fading Lights 11,Anirudh Ravichander,Electronic,2017,234212,119.9,0.88,0.67,-11.62,338.3,86.7,ALB-INT-47122,Standard licensing
+SPT-1012,Golden Skyline 12,The Weeknd,Electronic,2016,165071,105.2,0.68,0.97,-8.4,377.17,97.9,ALB-INT-35092,Cleared for global
+SPT-1013,Summer Fire 13,Taylor Swift,Rock,2022,238990,136.3,0.47,0.86,-6.33,352.48,,ALB-INT-85645,Remastered batch
+SPT-1014,Fading Horizon 14,Sia,Pop,2022,195519,105.8,0.5,0.85,-12.97,318.73,72.6,ALB-INT-36505,Standard licensing
+SPT-1015,Summer Lights 15,Pritam,R&B,2025,135503,132.4,0.53,0.83,-10.57,241.94,59.0,ALB-INT-46713,Standard licensing
+SPT-1016,Midnight Voices 16,Arijit Singh,Hip-Hop,2025,221457,151.6,,0.49,-3.54,316.24,80.7,ALB-INT-64387,Remastered batch
+SPT-1017,Broken Shadows 17,Pritam,Hip-Hop,2017,273977,110.1,0.37,0.53,-11.17,303.63,,ALB-INT-53169,Remastered batch
+SPT-1018,Velvet Voices 18,Ed Sheeran,Electronic,2017,171838,135.5,0.73,0.67,-10.62,291.02,66.2,ALB-INT-83282,Cleared for global
+SPT-1019,Wild Dreams 19,Kendrick Lamar,Pop,2016,251200,130.3,0.57,0.55,-4.97,230.46,57.9,ALB-INT-87511,Catalog sync v2
+SPT-1020,Crystal Moments 20,Diljit Dosanjh,Pop,2025,215489,167.6,,0.64,-13.46,311.51,59.4,ALB-INT-61742,Standard licensing
+SPT-1021,Echoing Stars 21,Bruno Mars,Bollywood,2023,152806,106.9,0.88,0.92,-8.98,343.3,89.3,ALB-INT-50522,Catalog sync v2
+SPT-1022,Summer Voices 22,Bruno Mars,Pop,2023,279240,135.5,0.63,0.88,-9.9,334.45,82.8,ALB-INT-91132,Standard licensing
+SPT-1023,Echoing Fire 23,Ed Sheeran,Electronic,2016,196119,82.2,0.41,0.77,-10.58,298.71,65.1,ALB-INT-13880,Cleared for global
+SPT-1024,Dancing Highway 24,Coldplay,Indie Pop,2023,164714,107.1,0.85,0.9,-10.91,345.78,87.2,ALB-INT-53454,Remastered batch
+SPT-1025,Dancing Heartbeat 25,The Weeknd,Hip-Hop,2024,181419,125.8,0.38,0.85,-13.01,354.63,72.5,ALB-INT-65711,Cleared for global
+SPT-1026,Summer Waves 1,Imagine Dragons,Indie Pop,2019,231432,148.6,0.79,,-10.6,347.5,75.5,ALB-INT-53539,Remastered batch
+SPT-1027,Lost Rhythm 2,Atif Aslam,Hip-Hop,2016,218949,91.0,0.81,0.52,-13.54,379.72,81.5,ALB-INT-78321,Catalog sync v2
+SPT-1028,Electric Lights 3,Anirudh Ravichander,Rock,2016,259533,135.3,0.56,0.7,-5.57,255.75,65.8,ALB-INT-97985,Catalog sync v2
+SPT-1029,Electric Waves 4,Dua Lipa,Indie Pop,2018,271363,116.6,0.84,0.83,-9.7,346.92,89.5,ALB-INT-24799,Cleared for global
+SPT-1030,Neon Rhythm 5,The Weeknd,Electronic,2020,202971,84.5,0.66,0.65,-9.21,281.57,70.1,ALB-INT-70102,Remastered batch
+SPT-1031,Infinite Horizon 6,Dua Lipa,Hip-Hop,2020,219471,122.0,0.63,0.79,-4.35,364.21,87.2,ALB-INT-60726,Cleared for global
+SPT-1032,Lost Rhythm 7,Sia,Rock,2024,190946,155.6,0.38,0.45,-6.89,280.53,57.5,ALB-INT-58784,Remastered batch
+SPT-1033,Summer Fire 8,The Weeknd,R&B,2025,224989,93.4,0.52,0.83,-13.91,357.0,72.5,ALB-INT-53333,Remastered batch
+SPT-1034,Golden Stars 9,Sia,Bollywood,2017,210080,115.6,0.91,,-3.81,379.73,85.5,ALB-INT-50828,Catalog sync v2
+SPT-1035,Wild Stars 10,Bruno Mars,Pop,2017,203794,96.3,0.59,0.81,-11.44,408.71,76.3,ALB-INT-79526,Catalog sync v2
+SPT-1036,Neon Horizon 11,Atif Aslam,Pop,2021,156841,107.7,0.68,0.96,-12.84,379.98,84.1,ALB-INT-64362,Remastered batch
+SPT-1037,Lost Voices 12,The Weeknd,Indie Pop,2024,250447,149.5,0.67,0.88,-5.7,288.54,71.6,ALB-INT-63997,Remastered batch
+SPT-1038,Echoing Voices 13,Alan Walker,Electronic,2016,246029,112.0,0.7,0.92,-8.59,320.52,80.7,ALB-INT-60341,Remastered batch
+SPT-1039,Infinite Voices 14,Dua Lipa,Pop,2024,202272,148.8,0.39,0.94,-9.32,336.33,74.4,ALB-INT-29073,Catalog sync v2
+SPT-1040,Velvet Skyline 15,Arijit Singh,Electronic,2024,163643,142.4,0.57,0.86,-11.31,288.18,73.3,ALB-INT-24549,Catalog sync v2
+SPT-1041,Echoing Heartbeat 16,Bruno Mars,Electronic,2024,169950,110.0,0.78,0.79,-8.09,318.64,82.7,ALB-INT-93795,Standard licensing
+SPT-1042,Dancing Dreams 17,Shreya Ghoshal,Indie Pop,2020,226500,106.9,0.47,0.4,-11.04,249.65,56.7,ALB-INT-66920,Remastered batch
+SPT-1043,Lost Horizon 18,Atif Aslam,Bollywood,2024,285116,98.3,0.47,0.67,-4.26,336.74,68.2,ALB-INT-95326,Standard licensing
+SPT-1044,Silent Memories 19,Kendrick Lamar,Pop,2019,251588,97.5,0.36,0.73,-11.68,248.39,64.1,ALB-INT-85515,Remastered batch
+SPT-1045,Golden Fire 20,Ed Sheeran,Pop,2017,141997,125.8,0.61,0.58,-4.45,336.26,69.9,ALB-INT-30316,Catalog sync v2
+SPT-1046,Fading Shadows 21,AR Rahman,Bollywood,2021,205751,117.6,0.88,0.58,-7.96,406.85,87.3,ALB-INT-36183,Standard licensing
+SPT-1047,Broken Memories 22,Shreya Ghoshal,Electronic,2019,224605,104.3,0.38,0.96,-5.05,343.12,82.5,ALB-INT-34624,Standard licensing
+SPT-1048,Fading Rain 23,Kendrick Lamar,Rock,2021,280983,83.9,0.46,0.92,-6.3,316.16,82.5,ALB-INT-72515,Cleared for global
+SPT-1049,Echoing Horizon 24,Shreya Ghoshal,Hip-Hop,2018,181533,120.3,0.54,0.89,-6.48,287.93,73.5,ALB-INT-95781,Remastered batch
+SPT-1050,Broken Voices 25,Kendrick Lamar,Indie Pop,2021,208566,107.7,0.79,0.64,-10.5,370.71,83.0,ALB-INT-56705,Catalog sync v2
+SPT-1051,Golden Stars 1,Alan Walker,Bollywood,2017,271643,113.7,0.73,0.41,-11.47,,72.1,ALB-INT-99326,Cleared for global
+SPT-1052,Dancing Memories 2,Ed Sheeran,Bollywood,2017,234255,124.7,0.6,0.45,-11.72,366.22,69.3,ALB-INT-36756,Cleared for global
+SPT-1053,Dancing Highway 3,The Weeknd,Rock,2024,184005,70.0,0.81,0.58,-4.74,329.65,76.4,ALB-INT-70390,Remastered batch
+SPT-1054,Echoing Skyline 4,Dua Lipa,Indie Pop,2022,169541,84.3,0.72,0.41,-5.14,316.8,81.8,ALB-INT-78369,Cleared for global
+SPT-1055,Dancing Waves 5,The Weeknd,Electronic,2018,149387,168.5,0.89,0.41,-9.24,323.5,83.6,ALB-INT-80821,Remastered batch
+SPT-1056,Summer Rhythm 6,Drake,Hip-Hop,2016,219980,106.9,0.84,0.93,-12.57,396.05,89.1,ALB-INT-19589,Cleared for global
+SPT-1057,Dancing Skyline 7,Imagine Dragons,Pop,2023,211457,70.0,0.5,0.81,-9.87,285.4,72.7,ALB-INT-24116,Remastered batch
+SPT-1058,Neon Rain 8,Imagine Dragons,R&B,2021,270129,86.1,0.51,0.58,-7.31,282.39,69.6,ALB-INT-83181,Catalog sync v2
+SPT-1059,Golden Highway 9,Diljit Dosanjh,Pop,2022,190028,172.7,0.43,0.48,-9.09,290.36,68.5,ALB-INT-54786,Remastered batch
+SPT-1060,Neon Skyline 10,Imagine Dragons,Lo-Fi,2024,245246,,0.55,0.7,-5.57,265.61,69.6,ALB-INT-86425,Remastered batch
+SPT-1061,Broken Rhythm 11,Atif Aslam,Hip-Hop,2020,181731,143.5,0.95,0.4,-3.23,325.99,82.4,ALB-INT-40286,Standard licensing
+SPT-1062,Summer Voices 12,Bruno Mars,Pop,2016,281930,120.7,0.59,0.94,-11.94,300.98,73.0,ALB-INT-25994,Catalog sync v2
+SPT-1063,Summer Rain 13,Diljit Dosanjh,Electronic,2025,170638,107.3,0.48,0.64,-9.04,289.12,72.2,ALB-INT-36639,Catalog sync v2
+SPT-1064,Wild Rain 14,Imagine Dragons,R&B,2022,146567,135.1,0.81,0.63,-9.35,250.18,64.1,ALB-INT-27205,Catalog sync v2
+SPT-1065,Echoing Rain 15,Diljit Dosanjh,Bollywood,2020,286811,70.0,0.68,0.63,-10.71,329.53,71.3,ALB-INT-66677,Cleared for global
+SPT-1066,Midnight Rhythm 16,Post Malone,Bollywood,2018,183804,86.3,0.44,0.44,-11.86,,77.3,ALB-INT-42930,Standard licensing
+SPT-1067,Infinite Rhythm 17,AR Rahman,Rock,2024,234821,107.2,0.58,0.77,-13.29,321.58,81.1,ALB-INT-83313,Catalog sync v2
+SPT-1068,Silent Dreams 18,Post Malone,Rock,2016,129754,88.5,0.6,0.83,-4.42,,85.8,ALB-INT-28316,Cleared for global
+SPT-1069,Summer Skyline 19,AR Rahman,Bollywood,2016,153044,105.2,0.8,0.79,-9.47,313.76,76.8,ALB-INT-37304,Cleared for global
+SPT-1070,Silent Highway 20,Taylor Swift,Indie Pop,2016,193260,,0.36,0.48,-8.63,,64.2,ALB-INT-97876,Cleared for global
+SPT-1071,Crystal Heartbeat 21,Taylor Swift,Hip-Hop,2018,192912,120.9,0.51,0.74,-4.1,391.97,80.2,ALB-INT-95366,Standard licensing
+SPT-1072,Midnight Skyline 22,Sia,Indie Pop,2021,134706,147.3,0.66,0.73,-5.62,365.99,79.9,ALB-INT-23403,Cleared for global
+SPT-1073,Electric Heartbeat 23,Atif Aslam,Lo-Fi,2025,134894,122.3,0.51,0.9,-12.59,373.03,78.8,ALB-INT-90052,Standard licensing
+SPT-1074,Midnight Moments 24,Atif Aslam,Lo-Fi,2018,275109,139.8,0.73,0.62,-7.89,331.14,85.4,ALB-INT-94627,Remastered batch
+SPT-1075,Neon Stars 25,Ed Sheeran,Pop,2023,209986,116.6,0.64,0.62,-9.22,258.61,67.2,ALB-INT-83495,Cleared for global
+SPT-1076,Infinite Stars 1,Sia,Rock,2025,207942,105.0,0.57,0.76,-5.39,379.28,73.3,ALB-INT-41932,Catalog sync v2
+SPT-1077,Wild Voices 2,Shreya Ghoshal,R&B,2017,155725,150.6,0.92,0.77,-6.18,299.1,72.9,ALB-INT-46701,Cleared for global
+SPT-1078,Infinite Rhythm 3,Dua Lipa,Pop,2024,262998,102.4,0.73,0.67,-6.54,281.66,70.1,ALB-INT-13385,Remastered batch
+SPT-1079,Silent Voices 4,Arijit Singh,Electronic,2018,230555,125.6,0.43,0.66,-10.32,344.56,75.4,ALB-INT-67241,Remastered batch
+SPT-1080,Golden Dreams 5,Ed Sheeran,R&B,2020,135496,134.9,0.69,0.69,-5.31,349.37,70.5,ALB-INT-20367,Cleared for global
+SPT-1081,Infinite Waves 6,Billie Eilish,Pop,2025,182447,136.5,0.82,0.9,-13.43,423.3,87.9,ALB-INT-75030,Remastered batch
+SPT-1082,Dancing Skyline 7,Pritam,Rock,2023,227604,92.4,0.78,0.67,-12.28,,87.9,ALB-INT-56505,Standard licensing
+SPT-1083,Neon Heartbeat 8,Coldplay,Indie Pop,2017,286878,141.1,0.45,0.95,-10.38,368.0,74.2,ALB-INT-43332,Standard licensing
+SPT-1084,Summer Skyline 9,The Weeknd,R&B,2021,214199,96.5,0.93,0.69,-13.17,325.64,85.2,ALB-INT-95178,Cleared for global
+SPT-1085,Fading Moments 10,Kendrick Lamar,Lo-Fi,2020,167321,135.8,0.62,0.95,-11.46,321.49,84.0,ALB-INT-86325,Standard licensing
+SPT-1086,Electric Dreams 11,Coldplay,Lo-Fi,2025,279728,129.8,0.45,0.88,-5.03,296.66,66.5,ALB-INT-45268,Standard licensing
+SPT-1087,Electric Lights 12,Drake,Hip-Hop,2024,181147,136.0,0.46,0.61,-3.76,249.93,65.0,ALB-INT-96486,Catalog sync v2
+SPT-1088,Echoing Fire 13,Billie Eilish,R&B,2020,217396,91.5,0.41,0.9,-10.71,273.02,67.2,ALB-INT-35563,Cleared for global
+SPT-1089,Electric Dreams 14,Bruno Mars,Bollywood,2017,164787,130.9,0.83,0.46,-11.14,322.73,71.7,ALB-INT-46404,Remastered batch
+SPT-1090,Neon Stars 15,Bruno Mars,Indie Pop,2020,147727,141.9,0.42,0.94,-10.98,317.19,78.6,ALB-INT-65182,Cleared for global
+SPT-1091,Infinite Highway 16,Imagine Dragons,Bollywood,2019,221081,122.3,0.43,0.77,-11.0,265.79,67.6,ALB-INT-42991,Standard licensing
+SPT-1092,Dancing Waves 17,Diljit Dosanjh,Pop,2022,248721,100.0,0.86,0.43,-13.61,299.49,74.9,ALB-INT-57663,Catalog sync v2
+SPT-1093,Crystal Rhythm 18,Kendrick Lamar,Electronic,2021,194056,138.2,0.56,0.77,-3.99,286.31,68.1,ALB-INT-75886,Cleared for global
+SPT-1094,Echoing Highway 19,AR Rahman,Indie Pop,2017,260153,120.5,0.37,0.97,-11.69,336.83,81.0,ALB-INT-93848,Cleared for global
+SPT-1095,Broken Stars 20,Arijit Singh,Pop,2020,206102,81.2,0.38,0.44,-9.46,296.75,60.0,ALB-INT-34127,Standard licensing
+SPT-1096,Summer Rain 21,Post Malone,Pop,2022,282570,98.3,0.44,0.72,-13.9,364.51,79.5,ALB-INT-67692,Standard licensing
+SPT-1097,Electric Highway 22,Kendrick Lamar,Rock,2022,202865,106.4,0.48,0.83,-4.73,308.66,74.0,ALB-INT-47500,Cleared for global
+SPT-1098,Infinite Dreams 23,Taylor Swift,Indie Pop,2020,193695,151.1,,0.87,-6.1,360.35,72.7,ALB-INT-43785,Standard licensing
+SPT-1099,Lost Rain 24,Alan Walker,Bollywood,2024,243235,147.3,0.44,0.64,-3.78,263.1,67.8,ALB-INT-94146,Standard licensing
+SPT-1100,Lost Fire 25,Bruno Mars,Pop,2019,234777,147.2,0.42,0.52,-5.56,239.37,59.5,ALB-INT-99126,Standard licensing
+SPT-1101,Neon Waves 1,Bruno Mars,Indie Pop,2018,145033,123.1,0.81,0.42,-10.61,372.57,77.2,ALB-INT-57997,Standard licensing
+SPT-1102,Infinite Rain 2,Coldplay,Electronic,2019,267877,138.1,0.75,,-11.32,313.97,77.0,ALB-INT-17170,Standard licensing
+SPT-1103,Echoing Moments 3,Coldplay,Bollywood,2020,152832,92.9,0.61,0.66,-6.46,461.5,74.4,ALB-INT-23303,Catalog sync v2
+SPT-1104,Velvet Memories 4,The Weeknd,Indie Pop,2021,241725,118.1,0.68,0.95,-10.07,327.69,78.8,ALB-INT-81743,Standard licensing
+SPT-1105,Velvet Waves 5,Drake,Rock,2018,271016,127.9,0.54,0.44,-7.88,313.85,64.0,ALB-INT-87852,Remastered batch
+SPT-1106,Crystal Heartbeat 6,Coldplay,R&B,2017,145873,94.4,0.64,0.8,-13.93,293.72,71.2,ALB-INT-45187,Cleared for global
+SPT-1107,Fading Voices 7,Atif Aslam,Electronic,2019,166372,122.6,0.65,0.41,-13.33,308.0,74.5,ALB-INT-75034,Catalog sync v2
+SPT-1108,Golden Stars 8,Anirudh Ravichander,Indie Pop,2020,215464,155.1,0.58,,-8.22,282.02,68.5,ALB-INT-81776,Catalog sync v2
+SPT-1109,Velvet Fire 9,Taylor Swift,Pop,2019,272451,130.3,0.89,0.66,-7.89,355.82,78.6,ALB-INT-11893,Standard licensing
+SPT-1110,Wild Lights 10,Bruno Mars,R&B,2018,243322,138.2,0.36,0.66,-5.88,286.49,66.0,ALB-INT-23753,Cleared for global
+SPT-1111,Fading Voices 11,Coldplay,Pop,2023,226082,70.0,0.82,0.8,-12.57,423.65,77.4,ALB-INT-48090,Remastered batch
+SPT-1112,Summer Voices 12,Imagine Dragons,R&B,2025,131110,152.3,0.42,0.93,-8.46,287.36,,ALB-INT-74922,Standard licensing
+SPT-1113,Summer Memories 13,Bruno Mars,Electronic,2019,138087,113.9,0.83,0.77,-11.9,317.89,82.4,ALB-INT-86768,Cleared for global
+SPT-1114,Dancing Fire 14,Drake,R&B,2017,280834,101.1,0.72,0.95,-12.99,310.52,75.8,ALB-INT-69412,Standard licensing
+SPT-1115,Crystal Stars 15,Sia,Bollywood,2017,208617,114.2,0.86,0.91,-9.57,344.87,79.4,ALB-INT-66030,Standard licensing
+SPT-1116,Infinite Voices 16,Dua Lipa,Lo-Fi,2016,226483,85.3,0.41,0.74,-12.24,386.27,78.3,ALB-INT-27509,Standard licensing
+SPT-1117,Wild Waves 17,Taylor Swift,Hip-Hop,2019,135596,141.1,0.69,0.88,-11.6,,,ALB-INT-78653,Standard licensing
+SPT-1118,Dancing Dreams 18,Atif Aslam,Bollywood,2025,233539,110.6,0.65,0.77,-10.57,326.27,73.3,ALB-INT-46929,Standard licensing
+SPT-1119,Midnight Rhythm 19,Bruno Mars,Hip-Hop,2024,144313,101.8,0.77,0.45,-11.2,267.16,65.2,ALB-INT-58291,Standard licensing
+SPT-1120,Crystal Fire 20,Ed Sheeran,Hip-Hop,2022,239175,114.3,0.67,0.83,-13.05,360.51,83.5,ALB-INT-14042,Standard licensing
+SPT-1121,Wild Memories 21,Shreya Ghoshal,Rock,2025,240914,,0.67,0.46,-13.03,342.73,64.6,ALB-INT-72574,Remastered batch
+SPT-1122,Velvet Rhythm 22,Anirudh Ravichander,R&B,2022,149705,120.9,0.61,0.74,-11.91,296.84,75.0,ALB-INT-47201,Catalog sync v2
+SPT-1123,Electric Waves 23,Kendrick Lamar,Lo-Fi,2022,199445,87.0,0.54,0.81,-13.45,268.41,64.5,ALB-INT-24016,Remastered batch
+SPT-1124,Fading Skyline 24,Anirudh Ravichander,Bollywood,2023,229892,128.2,0.64,0.44,-7.23,508.88,74.7,ALB-INT-35022,Standard licensing
+SPT-1125,Crystal Rhythm 25,Pritam,Hip-Hop,2016,128023,97.6,0.42,0.53,-10.9,,73.2,ALB-INT-37938,Standard licensing
+SPT-1126,Dancing Lights 1,Kendrick Lamar,Hip-Hop,2025,245654,70.6,0.93,0.93,-10.98,378.66,89.8,ALB-INT-53678,Remastered batch
+SPT-1127,Midnight Heartbeat 2,Drake,Bollywood,2025,206073,,0.78,0.76,-10.41,300.61,70.5,ALB-INT-71720,Remastered batch
+SPT-1128,Broken Voices 3,Alan Walker,Indie Pop,2023,218197,128.1,0.92,0.54,-6.84,333.51,83.8,ALB-INT-66805,Catalog sync v2
+SPT-1129,Silent Highway 4,AR Rahman,Pop,2019,190429,116.3,0.49,,-4.6,292.31,68.3,ALB-INT-84323,Remastered batch
+SPT-1130,Crystal Shadows 5,Shreya Ghoshal,Hip-Hop,2019,230195,110.4,0.88,0.75,-5.8,369.83,75.0,ALB-INT-11986,Catalog sync v2
+SPT-1131,Silent Rhythm 6,Taylor Swift,Indie Pop,2019,159848,148.7,0.84,0.69,-6.14,346.51,77.5,ALB-INT-86478,Standard licensing
+SPT-1132,Lost Dreams 7,Billie Eilish,Indie Pop,2021,272451,180.0,0.76,0.97,-8.77,323.21,,ALB-INT-92994,Cleared for global
+SPT-1133,Dancing Dreams 8,Drake,Indie Pop,2022,153766,127.9,0.73,0.8,-6.51,299.68,76.2,ALB-INT-22161,Cleared for global
+SPT-1134,Broken Memories 9,Sia,Pop,2021,194099,95.3,0.54,0.62,-8.03,,78.5,ALB-INT-30689,Cleared for global
+SPT-1135,Summer Fire 10,Bruno Mars,Pop,2016,195122,114.6,0.84,0.86,-11.66,370.51,95.3,ALB-INT-70924,Cleared for global
+SPT-1136,Infinite Horizon 11,AR Rahman,Lo-Fi,2023,273159,127.5,0.65,0.91,-11.75,275.08,,ALB-INT-84308,Standard licensing
+SPT-1137,Electric Dreams 12,Bruno Mars,Hip-Hop,2025,174868,70.0,0.39,0.47,-10.8,252.45,60.0,ALB-INT-73745,Cleared for global
+SPT-1138,Neon Dreams 13,The Weeknd,Hip-Hop,2022,245119,125.4,0.54,0.52,-4.16,270.65,69.8,ALB-INT-11211,Remastered batch
+SPT-1139,Silent Dreams 14,Bruno Mars,Rock,2021,280297,127.6,0.91,0.53,-8.09,297.29,76.0,ALB-INT-10229,Remastered batch
+SPT-1140,Crystal Dreams 15,Post Malone,Pop,2021,221286,147.2,0.86,0.8,-6.07,358.29,84.9,ALB-INT-58542,Cleared for global
+SPT-1141,Golden Horizon 16,Post Malone,Lo-Fi,2020,132643,144.9,0.94,0.75,-10.26,346.29,89.0,ALB-INT-24345,Remastered batch
+SPT-1142,Summer Shadows 17,Kendrick Lamar,Bollywood,2021,162727,120.4,0.73,0.76,-9.6,317.99,82.9,ALB-INT-41819,Catalog sync v2
+SPT-1143,Infinite Lights 18,Pritam,Pop,2024,268077,151.3,0.5,0.95,-12.64,321.94,80.2,ALB-INT-57779,Standard licensing
+SPT-1144,Midnight Dreams 19,Atif Aslam,Hip-Hop,2025,235079,162.8,0.45,0.85,-12.15,,83.2,ALB-INT-92421,Cleared for global
+SPT-1145,Electric Fire 20,Shreya Ghoshal,R&B,2024,191697,118.6,0.46,0.47,-5.06,246.91,56.4,ALB-INT-75584,Cleared for global
+SPT-1146,Golden Lights 21,Billie Eilish,Lo-Fi,2025,142029,127.2,0.36,0.6,-7.68,289.48,74.9,ALB-INT-29950,Standard licensing
+SPT-1147,Summer Stars 22,Ed Sheeran,Hip-Hop,2023,271298,79.1,0.58,0.65,-10.35,328.7,70.0,ALB-INT-25173,Remastered batch
+SPT-1148,Fading Waves 23,Dua Lipa,Electronic,2025,285803,86.1,0.46,0.63,-5.33,,73.8,ALB-INT-68032,Standard licensing
+SPT-1149,Lost Waves 24,Alan Walker,Pop,2024,235458,99.6,0.6,0.79,-11.34,325.7,69.6,ALB-INT-38036,Standard licensing
+SPT-1150,Crystal Skyline 25,The Weeknd,Lo-Fi,2025,236384,108.2,0.91,0.92,-3.46,340.91,80.7,ALB-INT-81356,Remastered batch
+SPT-1151,Crystal Dreams 1,Drake,Indie Pop,2023,194926,93.9,0.61,0.58,-10.28,376.73,75.8,ALB-INT-24292,Standard licensing
+SPT-1152,Echoing Shadows 2,Dua Lipa,Lo-Fi,2023,263069,117.2,0.88,0.72,-10.36,318.66,69.8,ALB-INT-13052,Remastered batch
+SPT-1153,Silent Lights 3,Ed Sheeran,Rock,2016,181506,108.9,0.71,0.86,-10.63,326.9,85.9,ALB-INT-54377,Remastered batch
+SPT-1154,Lost Horizon 4,Arijit Singh,Electronic,2025,204229,141.6,0.5,0.64,-12.68,,77.9,ALB-INT-99317,Standard licensing
+SPT-1155,Fading Shadows 5,Dua Lipa,Electronic,2020,168092,107.6,0.56,,-12.8,352.04,70.1,ALB-INT-77838,Catalog sync v2
+SPT-1156,Crystal Highway 6,Dua Lipa,Indie Pop,2019,188539,70.0,0.4,0.68,-7.0,283.2,69.5,ALB-INT-77819,Remastered batch
+SPT-1157,Midnight Rhythm 7,Diljit Dosanjh,Pop,2017,278889,120.8,0.55,0.43,-4.55,238.35,62.3,ALB-INT-25620,Standard licensing
+SPT-1158,Summer Moments 8,AR Rahman,Indie Pop,2023,139428,117.7,0.76,0.95,-5.46,392.3,87.0,ALB-INT-40461,Remastered batch
+SPT-1159,Fading Rain 9,Imagine Dragons,Pop,2018,267330,99.0,0.39,0.44,-12.48,,65.6,ALB-INT-30750,Catalog sync v2
+SPT-1160,Electric Memories 10,Billie Eilish,Bollywood,2019,183775,120.1,0.47,0.65,-8.11,,64.2,ALB-INT-98719,Catalog sync v2
+SPT-1161,Summer Moments 11,Taylor Swift,Hip-Hop,2022,131469,94.3,0.58,0.71,-12.86,306.0,71.4,ALB-INT-19472,Cleared for global
+SPT-1162,Lost Heartbeat 12,Atif Aslam,Pop,2025,154854,125.3,0.94,0.97,-13.51,339.81,86.9,ALB-INT-79263,Remastered batch
+SPT-1163,Broken Heartbeat 13,Post Malone,Lo-Fi,2024,263328,175.9,0.82,0.5,-6.91,334.94,73.1,ALB-INT-67602,Remastered batch
+SPT-1164,Echoing Heartbeat 14,Ed Sheeran,R&B,2017,202256,78.3,0.79,0.47,-8.22,265.06,66.0,ALB-INT-35523,Standard licensing
+SPT-1165,Lost Waves 15,AR Rahman,R&B,2018,225134,106.6,0.42,0.41,-13.11,275.13,67.9,ALB-INT-40766,Remastered batch
+SPT-1166,Lost Rhythm 16,Dua Lipa,Lo-Fi,2019,258723,103.1,0.82,0.49,-13.62,364.33,73.8,ALB-INT-76060,Cleared for global
+SPT-1167,Midnight Skyline 17,The Weeknd,Pop,2025,210730,108.5,0.82,0.52,-3.31,,76.0,ALB-INT-19079,Catalog sync v2
+SPT-1168,Infinite Horizon 18,Alan Walker,Hip-Hop,2016,282123,140.4,0.71,0.77,-13.68,333.72,74.7,ALB-INT-18399,Catalog sync v2
+SPT-1169,Silent Dreams 19,Imagine Dragons,Bollywood,2022,153386,129.9,0.94,0.53,-9.2,334.77,82.0,ALB-INT-70726,Cleared for global
+SPT-1170,Crystal Voices 20,AR Rahman,Rock,2017,273256,136.7,0.55,0.41,-8.55,274.7,68.1,ALB-INT-26532,Remastered batch
+SPT-1171,Wild Rhythm 21,Bruno Mars,Pop,2020,159787,118.7,,0.88,-12.73,396.07,92.6,ALB-INT-92357,Remastered batch
+SPT-1172,Golden Waves 22,Dua Lipa,Bollywood,2016,147621,88.9,0.9,0.61,-12.17,321.45,82.6,ALB-INT-53162,Cleared for global
+SPT-1173,Echoing Fire 23,Kendrick Lamar,Indie Pop,2018,203984,,0.36,0.61,-10.2,268.01,65.0,ALB-INT-13749,Standard licensing
+SPT-1174,Broken Heartbeat 24,Dua Lipa,Indie Pop,2017,160051,134.4,0.62,0.58,-5.77,267.81,,ALB-INT-21353,Catalog sync v2
+SPT-1175,Infinite Voices 25,Atif Aslam,Electronic,2016,175811,121.8,0.94,0.97,-8.52,407.33,93.1,ALB-INT-38477,Cleared for global
+SPT-1176,Broken Rhythm 1,The Weeknd,Electronic,2022,156447,145.7,0.41,0.5,-7.11,371.56,63.6,ALB-INT-34570,Cleared for global
+SPT-1177,Lost Voices 2,Bruno Mars,Electronic,2020,254046,124.5,0.68,0.92,-3.36,545.0,79.4,ALB-INT-96373,Remastered batch
+SPT-1178,Midnight Horizon 3,Imagine Dragons,Pop,2016,287326,92.0,0.94,0.85,-5.71,348.03,84.5,ALB-INT-21437,Catalog sync v2
+SPT-1179,Midnight Fire 4,Post Malone,R&B,2021,210045,106.5,0.68,0.44,-9.31,273.02,68.4,ALB-INT-48104,Remastered batch
+SPT-1180,Summer Lights 5,Atif Aslam,Indie Pop,2020,242859,130.4,0.46,0.97,-9.18,,75.0,ALB-INT-73370,Cleared for global
+SPT-1181,Neon Moments 6,Drake,Pop,2018,271544,133.6,0.7,0.56,-7.32,408.7,85.3,ALB-INT-14551,Standard licensing
+SPT-1182,Infinite Rhythm 7,Pritam,R&B,2022,129471,136.8,0.47,0.46,-6.81,237.24,59.7,ALB-INT-78359,Catalog sync v2
+SPT-1183,Wild Heartbeat 8,Ed Sheeran,Lo-Fi,2025,246312,94.9,0.66,0.88,-8.59,418.69,74.2,ALB-INT-64880,Cleared for global
+SPT-1184,Electric Heartbeat 9,Dua Lipa,R&B,2024,265401,91.6,0.39,0.81,-7.04,320.17,79.3,ALB-INT-22916,Cleared for global
+SPT-1185,Lost Skyline 10,AR Rahman,Bollywood,2024,172850,113.8,0.71,0.76,-13.75,479.12,75.7,ALB-INT-90703,Standard licensing
+SPT-1186,Fading Skyline 11,Atif Aslam,Rock,2024,180220,149.7,0.66,,-9.36,342.76,68.6,ALB-INT-51445,Cleared for global
+SPT-1187,Midnight Skyline 12,Alan Walker,Electronic,2017,219808,102.7,0.79,0.68,-10.99,395.88,84.6,ALB-INT-57636,Cleared for global
+SPT-1188,Lost Moments 13,Arijit Singh,Pop,2018,263469,128.0,0.73,0.85,-12.6,289.68,71.7,ALB-INT-83927,Catalog sync v2
+SPT-1189,Midnight Skyline 14,Alan Walker,Hip-Hop,2022,179072,128.0,0.68,0.58,-12.92,298.7,78.5,ALB-INT-88194,Catalog sync v2
+SPT-1190,Lost Shadows 15,Kendrick Lamar,Hip-Hop,2020,209820,134.7,0.76,0.58,-7.49,310.09,75.9,ALB-INT-39685,Catalog sync v2
+SPT-1191,Silent Memories 16,Pritam,Indie Pop,2017,149284,154.6,0.44,0.4,-8.35,270.01,66.8,ALB-INT-61134,Remastered batch
+SPT-1192,Dancing Heartbeat 17,Bruno Mars,Bollywood,2018,209369,152.4,0.71,0.5,-11.26,288.24,75.4,ALB-INT-98916,Standard licensing
+SPT-1193,Dancing Rhythm 18,Arijit Singh,Electronic,2025,151122,104.9,0.45,0.91,-8.91,300.34,70.7,ALB-INT-77847,Catalog sync v2
+SPT-1194,Electric Rhythm 19,Coldplay,Pop,2021,256349,71.8,0.91,0.66,-8.68,354.96,87.3,ALB-INT-49993,Remastered batch
+SPT-1195,Velvet Horizon 20,Dua Lipa,Indie Pop,2022,196553,103.1,0.39,0.97,-11.89,314.34,70.8,ALB-INT-54333,Remastered batch
+SPT-1196,Dancing Horizon 21,Ed Sheeran,Rock,2024,220788,119.7,0.61,0.63,-6.96,329.82,75.3,ALB-INT-68865,Standard licensing
+SPT-1197,Golden Shadows 22,Imagine Dragons,Pop,2016,188812,110.0,0.77,0.81,-5.57,339.81,87.9,ALB-INT-89096,Standard licensing
+SPT-1198,Electric Rain 23,AR Rahman,Bollywood,2022,133999,161.3,0.62,0.56,-5.45,473.68,80.0,ALB-INT-59756,Cleared for global
+SPT-1199,Wild Memories 24,Drake,Electronic,2023,148436,118.4,0.41,0.61,-7.49,259.35,65.8,ALB-INT-71192,Remastered batch
+SPT-1200,Midnight Memories 25,Imagine Dragons,Hip-Hop,2018,168963,132.4,0.68,0.51,-8.47,311.52,75.0,ALB-INT-70686,Catalog sync v2
+SPT-1201,Midnight Fire 1,Taylor Swift,Electronic,2019,259168,122.8,0.73,0.6,-13.34,307.91,73.1,ALB-INT-58733,Standard licensing
+SPT-1202,Neon Memories 2,Arijit Singh,Bollywood,2025,282351,110.4,0.77,0.72,-10.89,431.52,93.7,ALB-INT-35993,Remastered batch
+SPT-1203,Silent Skyline 3,Dua Lipa,Hip-Hop,2021,234899,75.7,0.57,0.98,-12.99,322.0,83.5,ALB-INT-40492,Catalog sync v2
+SPT-1204,Infinite Heartbeat 4,Sia,Rock,2025,152201,116.3,0.69,0.79,-3.59,323.87,78.6,ALB-INT-30981,Remastered batch
+SPT-1205,Midnight Dreams 5,Shreya Ghoshal,Electronic,2022,276787,180.0,0.62,0.52,-12.54,321.2,72.8,ALB-INT-34143,Standard licensing
+SPT-1206,Summer Moments 6,Ed Sheeran,Indie Pop,2019,286381,90.6,0.75,0.43,-12.36,295.14,74.8,ALB-INT-87603,Cleared for global
+SPT-1207,Electric Shadows 7,Shreya Ghoshal,R&B,2023,272150,78.1,0.7,0.47,-4.39,327.53,74.5,ALB-INT-99452,Remastered batch
+SPT-1208,Infinite Shadows 8,Pritam,Bollywood,2020,131105,160.6,0.67,0.73,-3.81,400.39,74.9,ALB-INT-70277,Catalog sync v2
+SPT-1209,Dancing Fire 9,The Weeknd,Rock,2016,243666,134.3,0.5,0.84,-5.73,543.16,71.9,ALB-INT-59990,Standard licensing
+SPT-1210,Fading Shadows 10,Drake,Bollywood,2019,220848,122.1,0.35,0.95,-13.94,274.32,,ALB-INT-72888,Cleared for global
+SPT-1211,Velvet Heartbeat 11,Post Malone,R&B,2018,128839,148.0,0.45,0.41,-13.99,230.97,57.6,ALB-INT-79351,Catalog sync v2
+SPT-1212,Fading Skyline 12,The Weeknd,Rock,2024,194920,99.7,0.42,0.7,-9.92,297.16,73.8,ALB-INT-59999,Catalog sync v2
+SPT-1213,Crystal Moments 13,Alan Walker,Bollywood,2023,169619,115.7,0.62,0.67,-12.45,285.5,69.1,ALB-INT-80309,Catalog sync v2
+SPT-1214,Golden Lights 14,Arijit Singh,Rock,2016,168821,139.0,0.72,0.78,-13.8,286.84,72.2,ALB-INT-22446,Remastered batch
+SPT-1215,Dancing Dreams 15,Ed Sheeran,Rock,2021,251736,164.4,0.48,0.72,-8.99,281.18,,ALB-INT-40733,Standard licensing
+SPT-1216,Summer Highway 16,Billie Eilish,Electronic,2024,270565,92.3,0.91,0.8,-3.81,454.51,83.0,ALB-INT-86000,Catalog sync v2
+SPT-1217,Midnight Lights 17,Kendrick Lamar,Bollywood,2022,143069,146.2,0.35,0.78,-10.5,381.87,70.8,ALB-INT-58632,Remastered batch
+SPT-1218,Summer Rain 18,Billie Eilish,Pop,2019,133531,126.4,0.81,0.47,-6.86,272.73,71.2,ALB-INT-31576,Standard licensing
+SPT-1219,Electric Memories 19,Imagine Dragons,R&B,2016,264808,121.6,0.73,0.86,-6.96,315.4,78.1,ALB-INT-13320,Standard licensing
+SPT-1220,Electric Dreams 20,Bruno Mars,R&B,2017,264782,117.8,0.57,0.47,-11.29,300.01,72.8,ALB-INT-20750,Remastered batch
+SPT-1221,Midnight Voices 21,Dua Lipa,Pop,2020,193155,87.5,0.38,0.81,-6.98,295.39,74.5,ALB-INT-63463,Remastered batch
+SPT-1222,Summer Fire 22,Taylor Swift,Bollywood,2020,271047,139.2,0.73,0.64,-11.71,347.08,79.6,ALB-INT-36572,Catalog sync v2
+SPT-1223,Velvet Fire 23,Kendrick Lamar,Pop,2023,188424,100.8,0.58,0.7,-12.68,326.08,73.7,ALB-INT-27948,Standard licensing
+SPT-1224,Neon Shadows 24,Ed Sheeran,Indie Pop,2021,171603,94.2,0.91,0.92,-6.43,416.88,87.2,ALB-INT-48826,Cleared for global
+SPT-1225,Electric Voices 25,Pritam,Bollywood,2023,280324,137.5,0.68,0.92,-12.77,371.61,81.8,ALB-INT-99051,Remastered batch
+SPT-1226,Wild Lights 1,Sia,Pop,2017,258503,135.4,0.91,0.87,-3.23,343.76,81.2,ALB-INT-37867,Standard licensing
+SPT-1227,Silent Rain 2,Coldplay,Bollywood,2018,218573,119.7,0.48,0.7,-12.02,350.95,79.8,ALB-INT-70231,Standard licensing
+SPT-1228,Midnight Fire 3,Imagine Dragons,Bollywood,2021,266629,141.7,0.79,0.83,-7.58,353.75,89.3,ALB-INT-76262,Catalog sync v2
+SPT-1229,Neon Highway 4,Billie Eilish,Electronic,2025,229302,149.4,0.72,0.7,-9.56,351.3,81.8,ALB-INT-82233,Cleared for global
+SPT-1230,Electric Voices 5,The Weeknd,Pop,2018,257234,146.8,0.79,0.9,-12.64,334.99,80.2,ALB-INT-54678,Catalog sync v2
+SPT-1231,Midnight Memories 6,Pritam,Indie Pop,2021,145675,106.4,0.48,0.63,-13.7,283.08,72.8,ALB-INT-22963,Cleared for global
+SPT-1232,Echoing Rain 7,Taylor Swift,Electronic,2021,199997,140.3,0.75,0.96,-7.27,349.94,88.8,ALB-INT-74360,Cleared for global
+SPT-1233,Neon Waves 8,Taylor Swift,Lo-Fi,2017,274087,122.7,,0.94,-5.29,291.78,,ALB-INT-59434,Remastered batch
+SPT-1234,Midnight Heartbeat 9,Arijit Singh,Rock,2022,266905,156.0,0.8,0.83,-4.91,464.99,91.8,ALB-INT-76617,Standard licensing
+SPT-1235,Golden Rhythm 10,Post Malone,Indie Pop,2017,133896,115.3,0.55,0.56,-8.79,237.88,59.5,ALB-INT-30269,Standard licensing
+SPT-1236,Broken Highway 11,Post Malone,Rock,2021,175733,110.2,0.88,0.48,-5.6,322.4,80.8,ALB-INT-86312,Standard licensing
+SPT-1237,Fading Stars 12,Imagine Dragons,Electronic,2016,167800,104.5,0.4,0.9,-6.73,331.21,81.7,ALB-INT-89732,Cleared for global
+SPT-1238,Electric Skyline 13,Billie Eilish,Bollywood,2018,222044,122.2,0.83,0.5,-6.18,334.42,75.1,ALB-INT-91494,Standard licensing
+SPT-1239,Dancing Skyline 14,Ed Sheeran,Pop,2017,131347,128.3,0.87,,-8.68,,83.8,ALB-INT-98905,Remastered batch
+SPT-1240,Golden Highway 15,Coldplay,Bollywood,2022,259715,128.7,0.84,0.68,-7.16,456.19,83.6,ALB-INT-87225,Cleared for global
+SPT-1241,Fading Waves 16,Taylor Swift,Electronic,2019,166785,125.7,0.66,0.64,-5.3,414.82,85.4,ALB-INT-92867,Cleared for global
+SPT-1242,Golden Highway 17,Ed Sheeran,Lo-Fi,2023,144681,132.8,0.61,0.92,-9.7,331.34,77.0,ALB-INT-47528,Cleared for global
+SPT-1243,Crystal Stars 18,Ed Sheeran,Hip-Hop,2021,229864,113.1,0.95,0.75,-5.3,351.02,,ALB-INT-88972,Cleared for global
+SPT-1244,Golden Stars 19,Atif Aslam,Rock,2025,272964,98.8,0.49,0.73,-7.61,264.1,69.3,ALB-INT-75602,Remastered batch
+SPT-1245,Midnight Skyline 20,Coldplay,R&B,2019,173299,96.9,0.68,0.72,-12.21,273.61,67.1,ALB-INT-43332,Standard licensing
+SPT-1246,Midnight Rhythm 21,AR Rahman,Pop,2020,143073,139.5,0.75,0.62,-13.73,381.16,81.5,ALB-INT-88929,Remastered batch
+SPT-1247,Crystal Shadows 22,Drake,R&B,2024,228304,128.3,0.77,0.86,-10.08,301.55,78.4,ALB-INT-79206,Standard licensing
+SPT-1248,Infinite Rain 23,Shreya Ghoshal,Rock,2022,156682,77.2,0.47,0.55,-8.1,267.63,,ALB-INT-12251,Remastered batch
+SPT-1249,Broken Waves 24,Sia,Pop,2025,250302,142.1,0.74,0.94,-4.93,373.25,87.8,ALB-INT-55717,Catalog sync v2
+SPT-1250,Broken Heartbeat 25,Post Malone,Indie Pop,2024,271361,159.4,0.84,0.92,-12.62,325.31,82.1,ALB-INT-37027,Catalog sync v2
+SPT-1251,Golden Rhythm 1,Post Malone,Rock,2022,241359,102.2,0.38,0.6,-5.36,392.48,71.1,ALB-INT-96551,Catalog sync v2
+SPT-1252,Silent Rain 2,Anirudh Ravichander,Pop,2016,264999,125.4,0.9,0.82,-4.68,,77.7,ALB-INT-19583,Catalog sync v2
+SPT-1253,Summer Stars 3,Post Malone,Electronic,2023,192707,107.6,0.37,0.73,-12.37,355.32,74.6,ALB-INT-60387,Cleared for global
+SPT-1254,Infinite Rhythm 4,Coldplay,Hip-Hop,2019,191428,131.8,0.56,0.6,-4.8,309.69,73.1,ALB-INT-33104,Cleared for global
+SPT-1255,Lost Rain 5,Atif Aslam,Rock,2018,176601,92.3,0.36,0.97,-3.29,339.46,72.9,ALB-INT-22224,Remastered batch
+SPT-1256,Lost Dreams 6,Dua Lipa,Pop,2022,259611,116.4,0.4,0.41,-6.15,259.94,,ALB-INT-70624,Remastered batch
+SPT-1257,Silent Fire 7,Arijit Singh,R&B,2018,237487,139.6,0.9,0.55,-5.52,301.55,70.8,ALB-INT-66058,Catalog sync v2
+SPT-1258,Dancing Voices 8,Bruno Mars,Lo-Fi,2023,279741,,0.56,0.7,-3.26,367.15,73.6,ALB-INT-39299,Standard licensing
+SPT-1259,Electric Waves 9,Arijit Singh,Lo-Fi,2021,277716,127.4,0.6,0.7,-7.46,306.09,,ALB-INT-88572,Catalog sync v2
+SPT-1260,Echoing Voices 10,Kendrick Lamar,Bollywood,2020,275817,110.5,0.48,0.74,-10.67,264.02,64.2,ALB-INT-95469,Remastered batch
+SPT-1261,Golden Horizon 11,Arijit Singh,Pop,2019,154228,83.0,0.71,0.84,-4.95,321.47,75.5,ALB-INT-87928,Catalog sync v2
+SPT-1262,Infinite Highway 12,Bruno Mars,Bollywood,2023,248788,,0.71,0.76,-7.36,350.22,77.2,ALB-INT-83474,Remastered batch
+SPT-1263,Fading Heartbeat 13,The Weeknd,Pop,2023,223239,107.7,0.57,0.75,-7.72,294.66,70.6,ALB-INT-14141,Catalog sync v2
+SPT-1264,Wild Stars 14,Coldplay,Pop,2016,152928,102.6,0.55,0.43,-11.26,326.79,52.9,ALB-INT-33350,Standard licensing
+SPT-1265,Echoing Fire 15,Post Malone,Indie Pop,2024,144322,119.3,0.88,0.62,-5.83,342.15,85.9,ALB-INT-85082,Catalog sync v2
+SPT-1266,Velvet Shadows 16,Post Malone,Hip-Hop,2020,213896,110.5,0.58,0.53,-13.12,292.0,69.2,ALB-INT-80871,Standard licensing
+SPT-1267,Broken Stars 17,Atif Aslam,Bollywood,2019,188292,121.8,0.65,0.55,-4.02,286.33,58.6,ALB-INT-15077,Standard licensing
+SPT-1268,Fading Dreams 18,Anirudh Ravichander,Rock,2021,155055,144.5,0.52,0.72,-10.48,376.34,85.2,ALB-INT-56015,Remastered batch
+SPT-1269,Lost Stars 19,Atif Aslam,Hip-Hop,2021,168891,109.1,0.82,0.52,-12.62,406.2,83.3,ALB-INT-81147,Standard licensing
+SPT-1270,Fading Highway 20,Dua Lipa,Indie Pop,2017,207912,87.6,0.59,0.57,-9.22,521.22,69.1,ALB-INT-69180,Cleared for global
+SPT-1271,Fading Moments 21,Dua Lipa,Lo-Fi,2023,263660,102.6,0.66,0.54,-13.54,280.41,67.2,ALB-INT-50857,Cleared for global
+SPT-1272,Summer Lights 22,Taylor Swift,Hip-Hop,2022,216536,,0.5,0.95,-6.61,305.12,78.9,ALB-INT-69840,Cleared for global
+SPT-1273,Midnight Skyline 23,Anirudh Ravichander,Hip-Hop,2016,132304,132.9,0.94,0.95,-4.25,338.45,88.7,ALB-INT-69902,Remastered batch
+SPT-1274,Neon Voices 24,Atif Aslam,Pop,2020,133345,126.9,0.52,0.75,-4.96,348.34,76.3,ALB-INT-15577,Cleared for global
+SPT-1275,Summer Voices 25,Post Malone,Bollywood,2021,286372,146.6,0.81,0.94,-12.62,393.42,79.0,ALB-INT-30002,Remastered batch
+SPT-1276,Neon Waves 1,Shreya Ghoshal,Rock,2019,281331,113.9,0.61,0.86,-12.64,330.42,84.0,ALB-INT-60711,Remastered batch
+SPT-1277,Lost Shadows 2,Alan Walker,Indie Pop,2017,217006,163.1,0.47,0.74,-5.21,268.82,68.7,ALB-INT-49451,Cleared for global
+SPT-1278,Velvet Memories 3,Bruno Mars,Pop,2019,272424,136.0,0.83,0.4,-4.02,,77.8,ALB-INT-59103,Standard licensing
+SPT-1279,Dancing Highway 4,Bruno Mars,Rock,2016,255350,,0.55,0.85,-9.02,347.65,71.0,ALB-INT-38647,Catalog sync v2
+SPT-1280,Electric Waves 5,Arijit Singh,Rock,2022,145446,157.6,0.87,0.81,-8.61,392.23,98.8,ALB-INT-44831,Remastered batch
+SPT-1281,Silent Memories 6,Alan Walker,Indie Pop,2017,128336,101.1,0.9,0.76,-10.56,353.33,86.9,ALB-INT-76830,Cleared for global
+SPT-1282,Velvet Horizon 7,Anirudh Ravichander,Lo-Fi,2017,188032,95.2,0.87,0.84,-4.34,407.64,99.0,ALB-INT-90632,Remastered batch
+SPT-1283,Summer Stars 8,AR Rahman,Pop,2024,223852,129.5,0.37,0.7,-7.04,360.47,73.2,ALB-INT-46833,Standard licensing
+SPT-1284,Dancing Heartbeat 9,Dua Lipa,Hip-Hop,2020,264593,79.8,0.82,0.81,-10.89,344.89,78.3,ALB-INT-34398,Standard licensing
+SPT-1285,Midnight Skyline 10,Arijit Singh,Lo-Fi,2017,280553,102.7,,0.94,-10.77,361.4,83.8,ALB-INT-71554,Cleared for global
+SPT-1286,Echoing Heartbeat 11,Ed Sheeran,Hip-Hop,2024,144474,152.3,0.87,0.62,-4.38,330.17,84.6,ALB-INT-60755,Remastered batch
+SPT-1287,Summer Stars 12,Arijit Singh,Rock,2024,181718,130.2,0.73,0.81,-13.85,342.85,81.7,ALB-INT-27706,Catalog sync v2
+SPT-1288,Infinite Stars 13,AR Rahman,Hip-Hop,2016,170629,135.9,0.85,0.68,-10.51,374.23,83.6,ALB-INT-32340,Catalog sync v2
+SPT-1289,Neon Stars 14,The Weeknd,Indie Pop,2018,171232,103.5,0.65,0.79,-8.01,473.05,81.6,ALB-INT-74994,Remastered batch
+SPT-1290,Neon Fire 15,Shreya Ghoshal,Lo-Fi,2019,212544,84.2,0.67,0.84,-12.4,286.0,72.6,ALB-INT-73884,Remastered batch
+SPT-1291,Infinite Highway 16,Ed Sheeran,Hip-Hop,2022,176669,133.5,0.44,0.43,-13.01,221.59,58.2,ALB-INT-94361,Remastered batch
+SPT-1292,Wild Voices 17,Shreya Ghoshal,R&B,2025,195184,138.5,0.82,0.78,-5.2,293.46,76.3,ALB-INT-27482,Cleared for global
+SPT-1293,Neon Dreams 18,Arijit Singh,Indie Pop,2019,139140,137.5,0.6,0.53,-4.34,292.53,71.4,ALB-INT-64225,Standard licensing
+SPT-1294,Broken Stars 19,Dua Lipa,Pop,2017,252468,122.6,0.65,0.79,-5.11,364.96,75.7,ALB-INT-68849,Catalog sync v2
+SPT-1295,Midnight Highway 20,Drake,Pop,2022,209457,96.7,,0.67,-4.29,277.72,73.0,ALB-INT-84854,Cleared for global
+SPT-1296,Golden Fire 21,Bruno Mars,Rock,2021,140357,171.6,0.71,0.85,-8.03,348.18,,ALB-INT-51256,Remastered batch
+SPT-1297,Fading Rhythm 22,AR Rahman,Hip-Hop,2018,237672,128.6,0.47,0.47,-5.23,275.61,67.8,ALB-INT-91110,Remastered batch
+SPT-1298,Silent Rain 23,Drake,R&B,2021,194673,114.2,0.7,0.76,-9.85,301.49,78.7,ALB-INT-24650,Standard licensing
+SPT-1299,Neon Dreams 24,Alan Walker,Hip-Hop,2021,247673,114.3,0.59,,-6.8,290.64,69.4,ALB-INT-56118,Remastered batch
+SPT-1300,Velvet Waves 25,Bruno Mars,Lo-Fi,2020,191633,121.3,0.63,0.89,-3.32,303.17,76.3,ALB-INT-38930,Cleared for global
+SPT-1301,Echoing Lights 1,Post Malone,Pop,2019,222111,141.5,0.37,0.94,-11.56,277.92,68.0,ALB-INT-95707,Cleared for global
+SPT-1302,Fading Rain 2,Ed Sheeran,R&B,2025,204258,122.2,0.48,0.98,-9.79,367.39,82.2,ALB-INT-21801,Standard licensing
+SPT-1303,Infinite Heartbeat 3,Bruno Mars,Bollywood,2016,269996,136.9,0.52,0.86,-8.82,302.97,71.0,ALB-INT-61360,Cleared for global
+SPT-1304,Summer Stars 4,AR Rahman,Bollywood,2025,195286,121.3,0.78,0.84,-12.51,319.87,82.6,ALB-INT-97908,Catalog sync v2
+SPT-1305,Electric Lights 5,Pritam,Bollywood,2021,219269,,0.36,0.52,-13.12,429.19,74.4,ALB-INT-26559,Cleared for global
+SPT-1306,Fading Rhythm 6,Drake,Bollywood,2017,200071,132.1,0.6,0.59,-5.04,310.71,69.8,ALB-INT-42334,Cleared for global
+SPT-1307,Velvet Fire 7,The Weeknd,Rock,2018,156651,131.3,0.9,0.67,-3.45,394.79,86.7,ALB-INT-23288,Cleared for global
+SPT-1308,Summer Lights 8,Atif Aslam,Pop,2023,196202,114.3,0.42,0.85,-9.63,,75.9,ALB-INT-32398,Catalog sync v2
+SPT-1309,Echoing Dreams 9,Atif Aslam,Pop,2025,174777,101.5,0.66,0.93,-13.05,313.77,82.0,ALB-INT-86230,Remastered batch
+SPT-1310,Dancing Fire 10,AR Rahman,R&B,2021,274066,125.5,0.82,0.51,-13.29,298.42,78.3,ALB-INT-22191,Cleared for global
+SPT-1311,Dancing Memories 11,AR Rahman,Electronic,2018,193263,119.7,0.92,0.93,-4.37,336.22,86.0,ALB-INT-28051,Standard licensing
+SPT-1312,Neon Voices 12,Imagine Dragons,Bollywood,2022,226158,105.8,0.8,0.8,-8.99,332.64,81.2,ALB-INT-71715,Catalog sync v2
+SPT-1313,Broken Stars 13,Ed Sheeran,Hip-Hop,2019,136800,99.5,0.78,0.75,-10.54,413.14,76.2,ALB-INT-20737,Standard licensing
+SPT-1314,Neon Waves 14,Alan Walker,Pop,2024,163823,127.0,0.85,0.52,-8.85,319.7,76.9,ALB-INT-75140,Cleared for global
+SPT-1315,Lost Dreams 15,Imagine Dragons,Pop,2020,189878,130.1,0.62,0.43,-10.56,264.71,65.6,ALB-INT-35251,Standard licensing
+SPT-1316,Dancing Fire 16,Shreya Ghoshal,Rock,2018,144708,110.1,0.83,0.73,-8.72,365.46,86.4,ALB-INT-60975,Cleared for global
+SPT-1317,Neon Waves 17,Post Malone,Hip-Hop,2017,269891,105.2,0.35,0.78,-4.72,230.3,59.2,ALB-INT-15147,Catalog sync v2
+SPT-1318,Broken Stars 18,Dua Lipa,Pop,2017,189870,99.7,0.9,0.52,-7.6,349.36,80.8,ALB-INT-60508,Standard licensing
+SPT-1319,Fading Lights 19,Dua Lipa,Electronic,2018,135283,126.4,0.62,0.72,-6.5,330.03,76.9,ALB-INT-62224,Standard licensing
+SPT-1320,Lost Horizon 20,Post Malone,Pop,2017,287645,100.3,0.68,0.9,-10.06,380.36,81.5,ALB-INT-29643,Cleared for global
+SPT-1321,Lost Highway 21,Bruno Mars,Electronic,2019,204707,167.3,0.5,0.88,-6.02,502.92,81.2,ALB-INT-48967,Cleared for global
+SPT-1322,Broken Stars 22,Coldplay,Indie Pop,2017,131774,109.0,0.8,0.94,-6.8,324.98,82.1,ALB-INT-50733,Remastered batch
+SPT-1323,Electric Stars 23,Imagine Dragons,Bollywood,2025,268055,70.0,0.4,0.61,-12.71,293.13,68.7,ALB-INT-94003,Cleared for global
+SPT-1324,Midnight Skyline 24,Pritam,Indie Pop,2024,222468,117.3,0.87,0.58,-7.82,366.57,68.1,ALB-INT-44808,Cleared for global
+SPT-1325,Neon Rain 25,Drake,Hip-Hop,2017,222334,116.4,0.85,0.83,-11.23,,80.4,ALB-INT-77288,Remastered batch
+SPT-1326,Lost Skyline 1,Post Malone,Pop,2024,144133,142.5,0.48,0.65,-5.32,315.45,75.1,ALB-INT-68959,Cleared for global
+SPT-1327,Infinite Horizon 2,Sia,Pop,2021,272011,124.3,0.84,0.45,-9.4,385.42,67.0,ALB-INT-11849,Cleared for global
+SPT-1328,Midnight Voices 3,Arijit Singh,Hip-Hop,2016,126781,99.7,0.82,0.56,-3.26,297.91,77.7,ALB-INT-78178,Remastered batch
+SPT-1329,Crystal Memories 4,Bruno Mars,Hip-Hop,2019,240586,111.7,,0.64,-13.0,393.91,72.0,ALB-INT-77136,Catalog sync v2
+SPT-1330,Silent Voices 5,Post Malone,Electronic,2016,153624,125.2,0.57,0.57,-5.57,268.33,70.0,ALB-INT-70740,Catalog sync v2
+SPT-1331,Golden Heartbeat 6,Imagine Dragons,Indie Pop,2021,132823,70.4,0.51,0.59,-6.72,285.7,65.8,ALB-INT-96322,Cleared for global
+SPT-1332,Summer Dreams 7,Pritam,Rock,2019,144489,147.4,0.49,0.57,-5.71,332.07,,ALB-INT-54565,Cleared for global
+SPT-1333,Midnight Rain 8,Pritam,R&B,2018,155118,99.7,0.54,0.42,-10.68,276.68,69.2,ALB-INT-30183,Remastered batch
+SPT-1334,Electric Moments 9,AR Rahman,Bollywood,2018,226417,149.2,0.89,0.77,-8.69,341.88,82.4,ALB-INT-11132,Remastered batch
+SPT-1335,Neon Voices 10,Diljit Dosanjh,Pop,2024,207816,126.6,0.4,0.75,-5.4,297.7,73.7,ALB-INT-48259,Catalog sync v2
+SPT-1336,Electric Dreams 11,AR Rahman,Hip-Hop,2021,279335,131.9,0.85,0.78,-11.49,465.86,86.6,ALB-INT-73668,Standard licensing
+SPT-1337,Midnight Skyline 12,Ed Sheeran,Pop,2024,139565,143.3,0.56,0.51,-11.56,369.17,76.6,ALB-INT-48563,Cleared for global
+SPT-1338,Broken Moments 13,Ed Sheeran,Indie Pop,2020,277426,130.6,,0.57,-8.05,335.61,73.7,ALB-INT-20931,Standard licensing
+SPT-1339,Summer Rain 14,Post Malone,Lo-Fi,2017,217179,132.8,0.83,0.76,-8.35,376.54,88.6,ALB-INT-83169,Standard licensing
+SPT-1340,Velvet Voices 15,Shreya Ghoshal,Pop,2023,149648,114.4,0.88,0.75,-10.95,366.49,76.1,ALB-INT-60639,Remastered batch
+SPT-1341,Echoing Fire 16,Kendrick Lamar,Electronic,2020,167971,126.2,0.56,0.69,-10.78,319.95,78.3,ALB-INT-68901,Cleared for global
+SPT-1342,Golden Rain 17,Billie Eilish,Electronic,2017,144658,105.1,0.63,0.6,-11.0,313.6,75.5,ALB-INT-11044,Cleared for global
+SPT-1343,Electric Horizon 18,Atif Aslam,Rock,2019,147253,110.4,0.6,0.93,-5.67,362.92,80.0,ALB-INT-56691,Remastered batch
+SPT-1344,Electric Waves 19,Coldplay,Electronic,2024,283462,161.2,0.36,0.6,-6.96,280.99,68.7,ALB-INT-34363,Standard licensing
+SPT-1345,Midnight Stars 20,Post Malone,Pop,2019,214664,100.2,0.53,0.66,-5.01,252.63,65.7,ALB-INT-56694,Remastered batch
+SPT-1346,Silent Rain 21,Billie Eilish,Indie Pop,2019,229850,121.4,0.63,0.79,-3.46,267.2,69.4,ALB-INT-11582,Catalog sync v2
+SPT-1347,Broken Stars 22,Imagine Dragons,Electronic,2017,263924,120.5,0.6,0.71,-8.88,326.62,84.5,ALB-INT-89910,Cleared for global
+SPT-1348,Broken Fire 23,Arijit Singh,Pop,2021,259623,111.2,0.78,0.6,-13.28,378.6,75.5,ALB-INT-76844,Catalog sync v2
+SPT-1349,Golden Heartbeat 24,Coldplay,Hip-Hop,2017,197947,129.3,0.58,,-13.48,300.08,71.4,ALB-INT-31301,Remastered batch
+SPT-1350,Wild Waves 25,Ed Sheeran,Pop,2022,187001,131.0,0.64,0.86,-10.81,328.23,71.6,ALB-INT-84329,Cleared for global
+SPT-1351,Lost Stars 1,Coldplay,Pop,2018,248775,97.6,0.61,,-3.93,260.34,62.6,ALB-INT-11620,Catalog sync v2
+SPT-1352,Neon Horizon 2,AR Rahman,Hip-Hop,2018,159243,120.2,0.79,0.48,-8.35,293.91,73.8,ALB-INT-72224,Catalog sync v2
+SPT-1353,Velvet Moments 3,Arijit Singh,Pop,2020,278872,94.2,0.87,0.58,-11.06,309.13,76.3,ALB-INT-66655,Standard licensing
+SPT-1354,Velvet Skyline 4,Atif Aslam,Electronic,2018,201939,135.3,0.67,0.89,-9.69,373.61,79.6,ALB-INT-47534,Cleared for global
+SPT-1355,Lost Rhythm 5,Post Malone,Rock,2017,183828,121.9,0.82,0.45,-7.54,329.16,75.0,ALB-INT-49390,Catalog sync v2
+SPT-1356,Neon Rain 6,Bruno Mars,Bollywood,2025,264311,119.8,0.53,0.98,-6.95,477.51,92.8,ALB-INT-81629,Catalog sync v2
+SPT-1357,Wild Memories 7,Bruno Mars,Pop,2024,132710,132.5,0.67,0.71,-12.34,332.05,73.9,ALB-INT-65856,Standard licensing
+SPT-1358,Broken Lights 8,Billie Eilish,Pop,2017,278456,111.9,0.56,0.97,-3.45,372.02,87.9,ALB-INT-59252,Catalog sync v2
+SPT-1359,Wild Skyline 9,Billie Eilish,Pop,2017,278110,138.1,0.6,0.94,-8.12,379.46,88.7,ALB-INT-65809,Catalog sync v2
+SPT-1360,Electric Dreams 10,Shreya Ghoshal,Rock,2023,163991,97.1,0.79,0.66,-12.53,441.92,82.5,ALB-INT-32259,Catalog sync v2
+SPT-1361,Electric Memories 11,Alan Walker,Rock,2024,264043,149.1,0.88,0.52,-4.35,358.65,76.0,ALB-INT-30655,Standard licensing
+SPT-1362,Golden Dreams 12,Billie Eilish,Pop,2022,286211,105.9,0.42,0.5,-13.19,218.84,57.3,ALB-INT-43005,Catalog sync v2
+SPT-1363,Infinite Skyline 13,Taylor Swift,R&B,2018,211445,80.7,0.73,0.54,-4.2,326.59,76.9,ALB-INT-41629,Catalog sync v2
+SPT-1364,Infinite Fire 14,Alan Walker,Pop,2024,206257,110.8,0.7,0.81,-3.24,374.7,84.8,ALB-INT-33610,Cleared for global
+SPT-1365,Neon Voices 15,Imagine Dragons,Electronic,2018,163711,108.3,0.42,0.56,-6.44,355.51,77.2,ALB-INT-67184,Cleared for global
+SPT-1366,Midnight Waves 16,Dua Lipa,Rock,2020,132530,110.6,0.48,0.6,-5.68,251.33,63.3,ALB-INT-31602,Standard licensing
+SPT-1367,Velvet Waves 17,The Weeknd,R&B,2024,137116,123.1,0.54,0.66,-10.36,357.6,70.2,ALB-INT-95945,Remastered batch
+SPT-1368,Wild Heartbeat 18,Anirudh Ravichander,Rock,2018,191794,142.2,,0.93,-3.83,403.36,69.2,ALB-INT-21110,Cleared for global
+SPT-1369,Wild Fire 19,Sia,Bollywood,2022,257354,113.8,0.5,0.51,-8.28,254.98,63.9,ALB-INT-16073,Standard licensing
+SPT-1370,Midnight Dreams 20,The Weeknd,Indie Pop,2016,258970,102.8,0.51,0.4,-6.09,361.26,69.7,ALB-INT-90818,Catalog sync v2
+SPT-1371,Dancing Memories 21,Kendrick Lamar,Bollywood,2019,130135,93.2,0.55,0.43,-4.02,245.13,63.3,ALB-INT-20195,Catalog sync v2
+SPT-1372,Wild Shadows 22,Imagine Dragons,Pop,2019,263701,107.7,0.8,0.92,-3.47,300.88,78.5,ALB-INT-11537,Standard licensing
+SPT-1373,Velvet Moments 23,Pritam,R&B,2022,235472,76.5,0.69,0.78,-5.0,320.11,82.6,ALB-INT-27138,Catalog sync v2
+SPT-1374,Electric Dreams 24,Atif Aslam,Electronic,2023,251147,102.0,0.94,0.56,-10.73,315.8,82.4,ALB-INT-54328,Catalog sync v2
+SPT-1375,Lost Voices 25,Anirudh Ravichander,Bollywood,2016,215087,145.4,0.6,0.5,-3.56,357.88,72.1,ALB-INT-56202,Remastered batch
+SPT-1376,Velvet Rhythm 1,Alan Walker,Hip-Hop,2020,159380,99.9,0.8,0.57,-7.22,278.24,72.5,ALB-INT-50164,Catalog sync v2
+SPT-1377,Electric Voices 2,Dua Lipa,Rock,2022,255951,,0.87,0.47,-3.95,333.08,83.9,ALB-INT-99743,Cleared for global
+SPT-1378,Wild Waves 3,Arijit Singh,Electronic,2019,143071,91.0,0.76,0.95,-6.7,320.71,83.1,ALB-INT-64659,Catalog sync v2
+SPT-1379,Summer Fire 4,Kendrick Lamar,Bollywood,2019,146074,157.0,0.6,0.85,-10.68,362.7,91.3,ALB-INT-96155,Standard licensing
+SPT-1380,Echoing Memories 5,Imagine Dragons,Pop,2019,193843,158.4,0.8,0.67,-10.0,305.99,79.4,ALB-INT-59692,Remastered batch
+SPT-1381,Electric Stars 6,Sia,Pop,2021,165901,131.0,0.47,0.9,-8.05,280.28,60.7,ALB-INT-34845,Catalog sync v2
+SPT-1382,Echoing Lights 7,Kendrick Lamar,Indie Pop,2022,137205,161.8,0.55,0.54,-5.47,216.58,55.3,ALB-INT-99846,Standard licensing
+SPT-1383,Neon Heartbeat 8,Anirudh Ravichander,Pop,2017,250661,125.8,0.68,0.82,-10.57,397.91,82.1,ALB-INT-40562,Cleared for global
+SPT-1384,Summer Rhythm 9,Kendrick Lamar,R&B,2020,131906,134.9,0.7,0.9,-7.74,,88.3,ALB-INT-38036,Catalog sync v2
+SPT-1385,Lost Moments 10,Alan Walker,Pop,2019,259663,145.8,0.36,0.61,-10.27,234.32,61.5,ALB-INT-70752,Remastered batch
+SPT-1386,Neon Memories 11,Billie Eilish,Lo-Fi,2018,251576,122.0,0.92,0.84,-5.19,471.85,97.4,ALB-INT-84233,Catalog sync v2
+SPT-1387,Neon Waves 12,Kendrick Lamar,Indie Pop,2022,188987,83.8,0.77,0.57,-8.96,326.6,85.6,ALB-INT-93049,Standard licensing
+SPT-1388,Wild Waves 13,Alan Walker,Pop,2021,206685,135.4,0.65,0.57,-13.17,293.15,73.9,ALB-INT-78681,Remastered batch
+SPT-1389,Velvet Lights 14,Post Malone,Bollywood,2022,236454,107.6,0.91,0.46,-12.21,306.24,80.2,ALB-INT-37818,Catalog sync v2
+SPT-1390,Broken Stars 15,Kendrick Lamar,Rock,2020,231487,,0.61,0.66,-13.34,317.86,78.8,ALB-INT-40544,Cleared for global
+SPT-1391,Infinite Fire 16,Anirudh Ravichander,Electronic,2021,180400,124.6,0.94,0.82,-8.61,398.02,96.2,ALB-INT-72532,Remastered batch
+SPT-1392,Echoing Stars 17,Arijit Singh,Electronic,2020,282222,130.5,0.66,0.95,-12.85,393.16,84.6,ALB-INT-88636,Cleared for global
+SPT-1393,Neon Heartbeat 18,Drake,Rock,2022,157852,121.3,0.42,0.75,-12.77,290.64,71.6,ALB-INT-67705,Standard licensing
+SPT-1394,Infinite Rain 19,Atif Aslam,Indie Pop,2017,178756,132.0,0.81,0.9,-3.84,386.75,87.3,ALB-INT-30104,Catalog sync v2
+SPT-1395,Crystal Moments 20,Atif Aslam,Lo-Fi,2020,241357,,0.76,0.88,-4.58,331.58,84.8,ALB-INT-79603,Cleared for global
+SPT-1396,Golden Highway 21,Kendrick Lamar,Lo-Fi,2021,245052,117.1,0.81,0.5,-9.12,369.53,80.8,ALB-INT-69025,Standard licensing
+SPT-1397,Summer Rhythm 22,Drake,Rock,2021,182481,136.7,0.92,0.68,-3.35,286.47,72.2,ALB-INT-42317,Catalog sync v2
+SPT-1398,Broken Stars 23,Diljit Dosanjh,Pop,2020,127283,157.0,0.82,0.47,-14.0,298.81,76.8,ALB-INT-41416,Standard licensing
+SPT-1399,Summer Dreams 24,Post Malone,Rock,2025,159691,164.8,0.72,0.8,-7.37,320.07,81.8,ALB-INT-52012,Cleared for global
+SPT-1400,Velvet Shadows 25,Atif Aslam,Pop,2022,258197,127.5,0.86,0.95,-7.34,332.42,,ALB-INT-78045,Standard licensing
+SPT-1401,Infinite Fire 1,Sia,Pop,2025,152170,136.5,0.75,0.48,-9.06,329.14,78.1,ALB-INT-31400,Remastered batch
+SPT-1402,Velvet Skyline 2,Arijit Singh,Indie Pop,2023,134438,161.6,0.59,0.83,-9.71,417.86,87.9,ALB-INT-58270,Catalog sync v2
+SPT-1403,Broken Rhythm 3,Coldplay,Hip-Hop,2022,146095,103.2,0.88,0.77,-9.08,319.89,83.2,ALB-INT-82069,Standard licensing
+SPT-1404,Golden Moments 4,Atif Aslam,R&B,2020,273226,131.9,0.48,0.74,-9.52,344.03,76.0,ALB-INT-59833,Cleared for global
+SPT-1405,Broken Horizon 5,Bruno Mars,Bollywood,2016,265076,134.9,0.78,0.63,-6.11,377.26,86.7,ALB-INT-73644,Catalog sync v2
+SPT-1406,Neon Rain 6,Sia,Bollywood,2020,135752,149.9,0.88,0.61,-12.54,397.45,80.2,ALB-INT-90206,Remastered batch
+SPT-1407,Neon Shadows 7,The Weeknd,Hip-Hop,2025,181426,93.0,0.79,0.43,-11.87,271.0,68.0,ALB-INT-79468,Catalog sync v2
+SPT-1408,Electric Skyline 8,Kendrick Lamar,Hip-Hop,2017,152819,97.3,0.77,0.53,-12.05,,78.5,ALB-INT-69473,Remastered batch
+SPT-1409,Velvet Dreams 9,Sia,Hip-Hop,2020,218051,118.5,0.8,0.41,-11.17,345.06,60.0,ALB-INT-55809,Catalog sync v2
+SPT-1410,Fading Memories 10,Dua Lipa,Lo-Fi,2020,281289,126.3,0.63,0.74,-8.33,283.39,61.8,ALB-INT-48328,Standard licensing
+SPT-1411,Midnight Highway 11,Atif Aslam,Pop,2017,158994,142.7,0.87,0.46,-12.8,318.17,77.9,ALB-INT-46784,Standard licensing
+SPT-1412,Infinite Rhythm 12,AR Rahman,R&B,2020,272108,129.4,0.47,0.91,-4.62,237.76,60.9,ALB-INT-33723,Cleared for global
+SPT-1413,Velvet Memories 13,Arijit Singh,Electronic,2019,223756,114.7,0.43,0.7,-10.79,248.92,61.9,ALB-INT-70646,Remastered batch
+SPT-1414,Lost Shadows 14,Post Malone,Hip-Hop,2016,266659,127.2,0.52,0.81,-12.24,312.39,71.9,ALB-INT-76255,Cleared for global
+SPT-1415,Summer Highway 15,Anirudh Ravichander,Bollywood,2018,221665,124.6,0.67,0.64,-6.7,323.75,70.2,ALB-INT-10074,Standard licensing
+SPT-1416,Electric Rain 16,Taylor Swift,Hip-Hop,2016,257717,156.4,0.66,,-13.59,291.74,75.2,ALB-INT-36498,Remastered batch
+SPT-1417,Summer Shadows 17,Shreya Ghoshal,R&B,2020,207835,121.6,0.84,0.95,-7.3,,91.7,ALB-INT-75522,Cleared for global
+SPT-1418,Infinite Moments 18,Shreya Ghoshal,R&B,2019,248232,,0.59,0.45,-6.46,302.73,70.2,ALB-INT-30541,Cleared for global
+SPT-1419,Broken Stars 19,Atif Aslam,Hip-Hop,2022,287162,127.9,0.64,0.55,-11.68,287.07,67.0,ALB-INT-55929,Cleared for global
+SPT-1420,Electric Waves 20,Coldplay,Indie Pop,2020,283547,122.4,0.36,0.85,-13.55,353.3,79.1,ALB-INT-36028,Cleared for global
+SPT-1421,Dancing Heartbeat 21,The Weeknd,Electronic,2025,275960,83.4,0.6,0.46,-10.07,,60.6,ALB-INT-39545,Cleared for global
+SPT-1422,Velvet Rain 22,Arijit Singh,R&B,2019,169732,117.7,0.74,0.44,-12.94,297.23,73.6,ALB-INT-89569,Remastered batch
+SPT-1423,Golden Voices 23,Sia,Pop,2017,172305,115.8,0.36,0.61,-12.74,315.53,57.0,ALB-INT-41673,Cleared for global
+SPT-1424,Dancing Stars 24,Anirudh Ravichander,Rock,2019,135346,106.0,0.52,0.45,-11.25,268.18,68.5,ALB-INT-40974,Remastered batch
+SPT-1425,Lost Voices 25,Post Malone,Rock,2017,126587,140.8,0.47,0.74,-10.81,273.03,69.6,ALB-INT-68899,Cleared for global
+SPT-1426,Silent Rain 1,Arijit Singh,Bollywood,2023,138763,100.7,0.38,0.53,-8.28,286.04,71.6,ALB-INT-33097,Standard licensing
+SPT-1427,Echoing Rhythm 2,Taylor Swift,Pop,2018,195615,128.0,0.64,0.92,-6.67,323.79,83.7,ALB-INT-74824,Standard licensing
+SPT-1428,Infinite Dreams 3,Post Malone,Rock,2024,246987,,0.46,0.85,-7.6,277.78,70.0,ALB-INT-33525,Cleared for global
+SPT-1429,Electric Rain 4,Bruno Mars,R&B,2019,217353,120.4,0.8,0.81,-12.4,295.76,76.5,ALB-INT-67804,Catalog sync v2
+SPT-1430,Summer Fire 5,Ed Sheeran,Pop,2021,221648,127.1,0.86,0.76,-12.14,380.85,79.8,ALB-INT-25043,Standard licensing
+SPT-1431,Wild Highway 6,Taylor Swift,Indie Pop,2025,151556,89.2,0.68,0.9,-4.51,353.67,91.3,ALB-INT-51846,Remastered batch
+SPT-1432,Summer Dreams 7,Atif Aslam,Lo-Fi,2020,185042,122.2,,0.53,-7.97,399.34,88.8,ALB-INT-87261,Cleared for global
+SPT-1433,Wild Skyline 8,Arijit Singh,Pop,2025,144099,,0.62,0.91,-4.6,279.23,72.9,ALB-INT-60227,Remastered batch
+SPT-1434,Midnight Shadows 9,Bruno Mars,Bollywood,2016,235089,83.8,0.66,0.86,-9.99,450.8,83.5,ALB-INT-63028,Catalog sync v2
+SPT-1435,Neon Shadows 10,Post Malone,Electronic,2024,270302,116.7,0.94,,-7.36,339.74,74.7,ALB-INT-47383,Cleared for global
+SPT-1436,Broken Voices 11,The Weeknd,Indie Pop,2016,286081,142.7,0.49,0.73,-8.34,263.27,69.2,ALB-INT-39483,Standard licensing
+SPT-1437,Velvet Rain 12,Taylor Swift,R&B,2023,159866,,0.92,0.54,-10.55,343.11,73.2,ALB-INT-17265,Remastered batch
+SPT-1438,Velvet Highway 13,Coldplay,Hip-Hop,2024,231400,133.1,0.38,0.65,-8.92,313.3,73.9,ALB-INT-32763,Standard licensing
+SPT-1439,Neon Shadows 14,Coldplay,Electronic,2024,210246,70.0,0.62,0.86,-8.57,334.01,70.0,ALB-INT-85652,Standard licensing
+SPT-1440,Neon Moments 15,Imagine Dragons,Hip-Hop,2016,202975,131.2,0.39,0.42,-11.83,282.92,65.7,ALB-INT-25733,Cleared for global
+SPT-1441,Summer Lights 16,Diljit Dosanjh,Electronic,2017,207557,101.2,0.79,0.85,-10.6,356.94,81.8,ALB-INT-47420,Remastered batch
+SPT-1442,Lost Heartbeat 17,AR Rahman,Pop,2016,263488,124.8,0.72,0.54,-5.45,345.71,72.7,ALB-INT-19247,Catalog sync v2
+SPT-1443,Electric Memories 18,Alan Walker,Hip-Hop,2025,198516,117.4,0.77,0.48,-4.11,342.19,83.9,ALB-INT-33840,Standard licensing
+SPT-1444,Wild Horizon 19,Ed Sheeran,Lo-Fi,2017,275130,168.1,0.57,0.47,-10.11,301.08,79.2,ALB-INT-75149,Cleared for global
+SPT-1445,Echoing Rhythm 20,Coldplay,Indie Pop,2025,158602,,0.57,0.42,-10.68,339.19,66.8,ALB-INT-31058,Cleared for global
+SPT-1446,Midnight Fire 21,Diljit Dosanjh,Rock,2023,284588,,0.38,0.7,-11.89,273.9,66.4,ALB-INT-44929,Catalog sync v2
+SPT-1447,Echoing Highway 22,Sia,Indie Pop,2020,255295,84.8,0.56,0.53,-6.67,261.12,60.6,ALB-INT-94171,Cleared for global
+SPT-1448,Midnight Lights 23,Anirudh Ravichander,Bollywood,2022,213969,120.7,0.91,0.97,-10.51,331.33,87.1,ALB-INT-41362,Standard licensing
+SPT-1449,Fading Shadows 24,Shreya Ghoshal,Pop,2017,258161,136.1,0.58,0.73,-3.33,356.53,85.8,ALB-INT-96489,Cleared for global
+SPT-1450,Electric Waves 25,Anirudh Ravichander,Lo-Fi,2023,267559,116.2,0.85,0.48,-10.48,479.07,75.1,ALB-INT-94664,Remastered batch
+SPT-1451,Wild Moments 1,Arijit Singh,Hip-Hop,2021,126155,106.9,0.86,0.8,-9.74,344.89,86.9,ALB-INT-57356,Remastered batch
+SPT-1452,Summer Stars 2,Atif Aslam,Indie Pop,2023,249950,105.4,0.57,0.92,-7.48,285.98,69.3,ALB-INT-87597,Standard licensing
+SPT-1453,Silent Shadows 3,Diljit Dosanjh,Pop,2016,193494,129.8,0.73,0.83,-5.34,345.66,77.2,ALB-INT-16041,Remastered batch
+SPT-1454,Summer Skyline 4,Atif Aslam,Pop,2016,202229,134.7,0.41,0.44,-8.93,329.72,66.8,ALB-INT-88209,Catalog sync v2
+SPT-1455,Summer Lights 5,AR Rahman,Electronic,2022,230648,147.9,0.41,0.92,-9.44,306.65,74.3,ALB-INT-71954,Cleared for global
+SPT-1456,Silent Stars 6,Sia,Indie Pop,2023,164547,96.1,0.38,0.86,-3.25,307.76,76.6,ALB-INT-71869,Standard licensing
+SPT-1457,Summer Memories 7,The Weeknd,Bollywood,2018,154795,129.6,,0.49,-13.89,386.06,68.7,ALB-INT-31059,Catalog sync v2
+SPT-1458,Broken Skyline 8,Arijit Singh,Hip-Hop,2020,147447,115.3,0.61,0.43,-4.33,272.79,58.4,ALB-INT-54722,Cleared for global
+SPT-1459,Broken Voices 9,Bruno Mars,Indie Pop,2016,213960,116.0,0.68,0.72,-12.39,,83.1,ALB-INT-27548,Catalog sync v2
+SPT-1460,Golden Voices 10,Ed Sheeran,Electronic,2022,189278,126.8,0.66,0.49,-5.51,252.87,65.7,ALB-INT-25078,Standard licensing
+SPT-1461,Summer Lights 11,Alan Walker,Rock,2020,181077,127.0,0.56,0.88,-7.33,332.21,79.6,ALB-INT-15419,Standard licensing
+SPT-1462,Wild Memories 12,Imagine Dragons,Pop,2023,238782,129.6,0.76,0.61,-10.31,311.01,78.9,ALB-INT-45490,Catalog sync v2
+SPT-1463,Crystal Shadows 13,Shreya Ghoshal,Pop,2023,228932,94.7,,0.93,-4.56,294.01,73.9,ALB-INT-86086,Cleared for global
+SPT-1464,Echoing Dreams 14,The Weeknd,Pop,2024,266600,101.5,0.36,0.73,-13.86,379.17,,ALB-INT-68760,Remastered batch
+SPT-1465,Wild Dreams 15,Taylor Swift,Bollywood,2022,235869,150.7,0.47,0.51,-11.55,245.9,,ALB-INT-40337,Remastered batch
+SPT-1466,Neon Memories 16,Pritam,Rock,2016,265251,113.1,0.78,0.48,-7.88,339.26,74.4,ALB-INT-11468,Catalog sync v2
+SPT-1467,Velvet Voices 17,Alan Walker,Hip-Hop,2018,174781,124.7,,0.73,-10.2,287.83,,ALB-INT-34309,Standard licensing
+SPT-1468,Velvet Rain 18,Ed Sheeran,Bollywood,2023,281024,141.2,0.75,0.84,-7.41,407.42,90.3,ALB-INT-76344,Cleared for global
+SPT-1469,Dancing Heartbeat 19,Ed Sheeran,Bollywood,2018,179798,128.2,0.56,0.85,-13.74,377.25,84.1,ALB-INT-82255,Cleared for global
+SPT-1470,Velvet Shadows 20,Dua Lipa,Electronic,2023,224696,130.0,0.58,0.56,-12.74,227.57,59.8,ALB-INT-91899,Standard licensing
+SPT-1471,Golden Heartbeat 21,Billie Eilish,R&B,2016,176939,137.7,0.45,0.52,-12.63,336.78,80.2,ALB-INT-38718,Remastered batch
+SPT-1472,Neon Highway 22,The Weeknd,Pop,2020,155516,71.4,0.5,0.41,-11.96,240.83,61.6,ALB-INT-47841,Cleared for global
+SPT-1473,Wild Horizon 23,Pritam,Pop,2019,267521,107.2,,0.79,-9.04,,91.2,ALB-INT-83548,Catalog sync v2
+SPT-1474,Broken Skyline 24,Taylor Swift,Indie Pop,2020,176290,128.3,0.61,0.44,-5.88,348.86,67.5,ALB-INT-93565,Remastered batch
+SPT-1475,Dancing Horizon 25,Alan Walker,Pop,2023,252688,148.5,0.81,0.64,-4.22,313.18,76.0,ALB-INT-56660,Catalog sync v2
+SPT-1476,Crystal Rain 1,Pritam,Electronic,2025,212661,119.5,0.86,0.75,-4.98,330.45,80.0,ALB-INT-60281,Remastered batch
+SPT-1477,Neon Waves 2,Kendrick Lamar,R&B,2019,198954,99.4,0.67,0.94,-11.87,313.04,78.1,ALB-INT-10767,Standard licensing
+SPT-1478,Silent Dreams 3,Shreya Ghoshal,Pop,2019,148746,100.0,0.8,0.58,-9.24,405.2,91.7,ALB-INT-13895,Catalog sync v2
+SPT-1479,Fading Dreams 4,Coldplay,Pop,2018,193990,137.4,0.53,0.54,-11.85,280.67,68.6,ALB-INT-68026,Catalog sync v2
+SPT-1480,Golden Highway 5,Kendrick Lamar,Hip-Hop,2022,184810,113.2,0.6,0.78,-11.14,294.47,73.8,ALB-INT-52968,Standard licensing
+SPT-1481,Midnight Moments 6,Sia,R&B,2018,244362,117.8,0.78,0.76,-8.56,330.23,80.2,ALB-INT-50097,Catalog sync v2
+SPT-1482,Neon Stars 7,Atif Aslam,Indie Pop,2018,272295,131.5,0.58,0.59,-13.26,253.22,,ALB-INT-25332,Remastered batch
+SPT-1483,Echoing Rhythm 8,Kendrick Lamar,Electronic,2025,259669,70.0,0.7,0.94,-11.64,407.2,90.9,ALB-INT-24621,Cleared for global
+SPT-1484,Fading Moments 9,Coldplay,Pop,2020,128659,162.0,0.46,0.89,-3.9,249.47,65.5,ALB-INT-86870,Cleared for global
+SPT-1485,Crystal Dreams 10,Billie Eilish,Pop,2020,212516,101.9,0.71,0.53,-8.97,311.4,69.7,ALB-INT-28174,Standard licensing
+SPT-1486,Velvet Dreams 11,Post Malone,Lo-Fi,2021,200567,123.3,0.87,0.54,-9.19,325.25,83.2,ALB-INT-50502,Remastered batch
+SPT-1487,Golden Rhythm 12,The Weeknd,Lo-Fi,2023,141037,80.5,0.87,0.7,-13.84,319.7,81.0,ALB-INT-46674,Catalog sync v2
+SPT-1488,Electric Highway 13,Drake,Pop,2025,252498,108.7,0.78,0.85,-11.33,367.67,84.8,ALB-INT-47260,Catalog sync v2
+SPT-1489,Midnight Lights 14,Anirudh Ravichander,Lo-Fi,2021,138109,145.4,0.8,0.43,-4.64,537.56,82.8,ALB-INT-52498,Cleared for global
+SPT-1490,Infinite Shadows 15,Billie Eilish,Rock,2016,148010,75.8,0.68,0.8,-12.22,386.87,84.0,ALB-INT-77609,Catalog sync v2
+SPT-1491,Summer Dreams 16,Imagine Dragons,R&B,2023,134787,142.8,0.7,0.78,-9.52,311.34,78.9,ALB-INT-59464,Cleared for global
+SPT-1492,Neon Highway 17,Coldplay,Hip-Hop,2023,265544,112.0,0.43,0.53,-13.85,308.53,78.9,ALB-INT-81805,Standard licensing
+SPT-1493,Neon Shadows 18,AR Rahman,Electronic,2024,280455,128.7,0.62,0.8,-8.83,366.78,72.7,ALB-INT-74919,Catalog sync v2
+SPT-1494,Electric Lights 19,Drake,Hip-Hop,2024,187709,132.5,0.62,,-13.77,326.25,78.9,ALB-INT-64469,Remastered batch
+SPT-1495,Infinite Lights 20,The Weeknd,Rock,2017,160518,127.7,0.93,0.43,-5.15,298.09,76.7,ALB-INT-27194,Catalog sync v2
+SPT-1496,Neon Lights 21,Ed Sheeran,Pop,2017,179909,99.0,0.61,0.59,-5.09,360.51,71.4,ALB-INT-36811,Cleared for global
+SPT-1497,Broken Stars 22,Imagine Dragons,Pop,2018,144351,110.0,0.68,0.65,-5.49,336.88,68.6,ALB-INT-82377,Standard licensing
+SPT-1498,Electric Dreams 23,Dua Lipa,Indie Pop,2016,141282,85.8,0.67,0.92,-10.94,454.1,70.6,ALB-INT-53723,Cleared for global
+SPT-1499,Neon Fire 24,Sia,Rock,2019,278850,128.8,0.73,0.96,-4.96,431.23,85.0,ALB-INT-85235,Catalog sync v2
+SPT-1500,Wild Fire 25,Shreya Ghoshal,Pop,2019,281336,155.4,0.8,0.66,-8.14,368.63,,ALB-INT-86298,Cleared for global
